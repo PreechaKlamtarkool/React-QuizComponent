@@ -5,7 +5,7 @@ import Quiz from './Quiz.js'
 class App extends Component {
   render() {
     return (
-      <div />
+      <Quiz />
     )
   }
 }
