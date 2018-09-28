@@ -1,4 +1,4 @@
-import React, {Component} from 'enzyme-adapter-react-16'
+import React, {Component} from 'react'
 
 class QuizQuestion extends Component {
     render() {
